@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50d91bc1-f82f-4835-a4ae-064ede3943b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Encapsulation/Protected.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Encapsulation_for_protected/Different_package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/packages/Objectclass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../React_frontend/react" beforeDir="false" afterPath="$PROJECT_DIR$/../React_frontend/react" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cn/CN Assignment.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cn/TCP/client.html" beforeDir="false" />
