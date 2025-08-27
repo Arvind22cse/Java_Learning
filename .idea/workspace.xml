@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50d91bc1-f82f-4835-a4ae-064ede3943b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Objectclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Encapsulation/Protected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Encapsulation_for_protected/Different_package.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../React_frontend/react" beforeDir="false" afterPath="$PROJECT_DIR$/../React_frontend/react" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cn/CN Assignment.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cn/TCP/client.html" beforeDir="false" />
@@ -2390,7 +2387,6 @@
       <change beforePath="$PROJECT_DIR$/../hosp/PHC_backend/backend/requirement.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hosp/PHC_backend/backend/routes/route.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hosp/PHC_backend/backend/try" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -2429,16 +2425,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BinarySearch.executor": "Debug",
+    "Application.Different_package.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Objectclass.executor": "Run",
     "Application.Parent.executor": "Run",
+    "Application.Protected.executor": "Run",
     "Application.Recursionbasic.executor": "Debug",
     "Application.Slidingwindow.executor": "Run",
     "Application.java1.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/javatrain",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -2446,13 +2448,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\javatrain\src\main\java\com\example\javatrain\basics" />
     </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -2481,7 +2476,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Recursion/BinarySearch.java</url>
           <line>3</line>
-          <properties class="Recursion.BinarySearch" method="main">
+          <properties class="Recursion.BinarySearch">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
