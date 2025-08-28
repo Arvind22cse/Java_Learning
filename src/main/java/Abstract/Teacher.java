@@ -3,8 +3,7 @@ package Abstract;
 abstract public class Teacher {
     static int age;
     public Teacher(int age) {
-        this.age=age;
-
+        Teacher.age =age;
     }
     static void getage(){
         System.out.println(age);
