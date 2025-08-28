@@ -1,6 +1,7 @@
 package Encapsulation;
 
 public class Person {
+    protected static int x=9;
     protected String name;
     private int age;
     protected int roll_no=10;
