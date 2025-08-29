@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50d91bc1-f82f-4835-a4ae-064ede3943b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Brake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/CDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/NiceCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/PowerEngine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../React_frontend/react" beforeDir="false" afterPath="$PROJECT_DIR$/../React_frontend/react" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cn/CN Assignment.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cn/TCP/client.html" beforeDir="false" />
@@ -2389,8 +2395,6 @@
       <change beforePath="$PROJECT_DIR$/../hosp/PHC_backend/backend/routes/route.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hosp/PHC_backend/backend/try" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Encapsulation/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Encapsulation/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Encapsulation_for_protected/Different_package.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Encapsulation_for_protected/Different_package.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2400,6 +2404,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
