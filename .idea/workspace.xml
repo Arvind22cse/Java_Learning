@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50d91bc1-f82f-4835-a4ae-064ede3943b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/defaultinterface/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/defaultinterface/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/defaultinterface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/defaultinterface/b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/nestedinterface/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/nestedinterface/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CTS_PREPARATION/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CTS_PREPARATION/Fibonnici_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CTS_PREPARATION/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CTS_PREPARATION/Minimumsum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CTS_PREPARATION/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CTS_PREPARATION/PositiveorNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CTS_PREPARATION/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CTS_PREPARATION/Rotatearray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CTS_PREPARATION/Strings/Nuberofwords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CTS_PREPARATION/Strings/Stringdecode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CTS_PREPARATION/TicketBooking/Bookings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CTS_PREPARATION/TicketBooking/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedList/LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gendric/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gendric/Wildcards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gendric/costumGenericArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../React_frontend/react" beforeDir="false" afterPath="$PROJECT_DIR$/../React_frontend/react" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cn/CN Assignment.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cn/TCP/client.html" beforeDir="false" />
@@ -2392,6 +2403,7 @@
       <change beforePath="$PROJECT_DIR$/../hosp/PHC_backend/backend/routes/route.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hosp/PHC_backend/backend/try" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javatrain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javatrain/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2427,28 +2439,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BinarySearch.executor": "Debug",
-    "Application.Different_package.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Objectclass.executor": "Run",
-    "Application.Parent.executor": "Run",
-    "Application.Protected.executor": "Run",
-    "Application.Recursionbasic.executor": "Debug",
-    "Application.Slidingwindow.executor": "Run",
-    "Application.java1.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/javatrain",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Different_package.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Nuberofwords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Objectclass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Protected.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recursionbasic.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Slidingwindow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stringdecode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Wildcards.executor&quot;: &quot;Run&quot;,
+    &quot;Application.java1.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javatrain&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\javatrain\src\main\java\com\example\javatrain\basics" />
