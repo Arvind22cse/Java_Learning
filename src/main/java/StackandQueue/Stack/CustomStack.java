@@ -1,4 +1,7 @@
-package StackandQueue.stack;
+package StackandQueue.Stack;
+
+import java.util.ArrayDeque;
+import java.util.Stack;
 
 public class CustomStack {
     protected int[] data;
@@ -38,7 +41,6 @@ public class CustomStack {
     private boolean isEmpty(){
         return ptr==-1;
     }
-
 
 
 }

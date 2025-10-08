@@ -1,4 +1,4 @@
-package Trees_and_Graphs;
+package Trees_and_Graphs.graphs;
 
 class GraphMatrix {
     int[][] matrix;

@@ -5,6 +5,4 @@ public class C implements A,b{
     public void greet() {
         System.out.println("Hi...");
     }
-
-
 }

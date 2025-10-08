@@ -1,4 +1,4 @@
-package StackandQueue.stack;
+package StackandQueue.Stack;
 
 public class Dynamicstack extends CustomStack{
     public Dynamicstack(){
