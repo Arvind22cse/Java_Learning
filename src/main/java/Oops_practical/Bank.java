@@ -1,5 +1,7 @@
 package Oops_practical;
 
+import java.util.Queue;
+
 public class Bank {
     private String Account_number;
     private String Account_holder_name;
@@ -46,7 +48,6 @@ public class Bank {
         System.out.println("Account holder name:"+Account_holder_name);
         System.out.println("Account balance:"+balance);
         System.out.println("-----------------------------------------------");
-
     }
 
     public static void main(String[] args) {
@@ -61,7 +62,6 @@ public class Bank {
 
         ac1.getinfo();
         ac2.getinfo();
-
 
     }
 }

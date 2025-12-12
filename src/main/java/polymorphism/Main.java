@@ -6,5 +6,7 @@ public class Main {
         Circle sp2=new Circle();
         Triangle sp3=new Triangle();
         sp1.shape();
+        sp2.shape();
+        sp3.shape();
     }
 }

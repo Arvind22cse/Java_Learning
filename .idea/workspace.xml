@@ -5,28 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50d91bc1-f82f-4835-a4ae-064ede3943b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptionhandling/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptionhandling/MyExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/marker_interface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/marker_interface/ScannerRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/serailizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Oops_practical/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Oops_practical/inheritance/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Oops_practical/inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Oops_practical/inheritance/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Oops_practical/inheritance/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Oops_practical/inheritance/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackandQueue/Stack/CustomStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackandQueue/Stack/Dynamicstack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackandQueue/Stack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackandQueue/Stack/StackException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackandQueue/queue/Customqueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackandQueue/queue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trees_and_Graphs/Trees/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trees_and_Graphs/graphs/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gendric/Lamda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Banking_application_with_JDBC/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Banking_application_with_JDBC/dao/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Banking_application_with_JDBC/modal/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Banking_application_with_JDBC/modal/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Banking_application_with_JDBC/modal/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Banking_application_with_JDBC/util/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/Count_zeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/Digitsum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/Reverse_a_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/Reverse_a_num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/Sorted_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/fibbo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../React_frontend/react" beforeDir="false" afterPath="$PROJECT_DIR$/../React_frontend/react" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cn/CN Assignment.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cn/TCP/client.html" beforeDir="false" />
@@ -2408,8 +2400,9 @@
       <change beforePath="$PROJECT_DIR$/../hosp/PHC_backend/backend/routes/route.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hosp/PHC_backend/backend/try" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Interface/defaultinterface/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interface/defaultinterface/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gendric/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gendric/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Oops_practical/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Oops_practical/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Singleton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2451,7 +2444,9 @@
     "Application.Basics.executor": "Run",
     "Application.BinarySearch.executor": "Debug",
     "Application.BinaryTree.executor": "Debug",
+    "Application.Count_zeros.executor": "Debug",
     "Application.Different_package.executor": "Run",
+    "Application.Digitsum.executor": "Debug",
     "Application.GraphMatrix.executor": "Run",
     "Application.Lamda.executor": "Run",
     "Application.Main.executor": "Run",
@@ -2460,11 +2455,16 @@
     "Application.Parent.executor": "Run",
     "Application.Protected.executor": "Run",
     "Application.Recursionbasic.executor": "Debug",
+    "Application.Reverse.executor": "Debug",
+    "Application.Reverse_a_String.executor": "Debug",
+    "Application.Reverse_a_num.executor": "Run",
     "Application.ScannerRead.executor": "Run",
     "Application.Slidingwindow.executor": "Run",
     "Application.Stringdecode.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.Wildcards.executor": "Run",
+    "Application.fact.executor": "Debug",
+    "Application.fibbo.executor": "Debug",
     "Application.java1.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -2514,6 +2514,26 @@
           <line>55</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Recursion/Reverse.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Recursion/fact.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Recursion/Digitsum.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Recursion/Count_zeros.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Recursion/BinarySearch.java</url>
           <line>3</line>
@@ -2522,6 +2542,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Recursion/Reverse_a_String.java</url>
+          <line>3</line>
+          <properties class="Recursion.Reverse_a_String" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Recursion/fibbo.java</url>
+          <line>3</line>
+          <properties class="Recursion.fibbo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
